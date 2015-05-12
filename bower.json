@@ -1,7 +1,7 @@
 {
   "name": "xp-targeter",
   "license": "BSD-3-Clause",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "description": "A mixin used add targeting capabilities to an element",
   "homepage": "http://www.expandjs.com/elements/xp-targeter",
   "authors": [
