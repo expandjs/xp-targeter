@@ -1,3 +1,3 @@
 # xp-targeter
 
-See the [`documentation page`](http://expandjs.com/elements/xp-targeter) for more information.
+This repository **is deprecated**. Use [`xp-targeter-behavior`](https://github.com/expandjs/xp-targeter-behavior) instead.
